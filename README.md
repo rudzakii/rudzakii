@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me +79511277297
+- 📫 How to reach me @serrakitty
 
 <!---
 rudzakii/rudzakii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
