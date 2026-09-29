@@ -1,4 +1,4 @@
-# Hi, I'm Elvin 👋
+# Hi, I'm rudzaki 👋
 
 ### Junior Backend Developer
 
